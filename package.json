@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "ramda": "^0.8.0",
-    "restify": "https://github.com/jimthematrix/node-restify.git#v3.0.3",
+    "restify": "https://github.com/leizh1984/mock-couch.git",
     "underscore": "^1.6.0",
     "couch-viewkey-compare": "^1.0.0"
   },
