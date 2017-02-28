@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "ramda": "^0.8.0",
-    "restify": "https://github.com/leizh1984/node-restify.git",
+    "restify": "https://github.com/leizh1984/node-restify.git#5.x",
     "underscore": "^1.6.0",
     "couch-viewkey-compare": "^1.0.0"
   },
